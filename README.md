@@ -1,6 +1,8 @@
 # code-fest
 Hour of Code / Hausner Code Fest: Intro to AI &amp; DeepLearning
 
+Page easy url: http://bit.ly/code-fest
+
 Explain here how to:
 - install Docker (link for Mac)
 - create local folder for Docker and make sure it is shared in preferences
@@ -58,6 +60,7 @@ http://keras.io
 https://harishnarayanan.org/writing/artistic-style-transfer/
 
 http://neuralnetworksanddeeplearning.com
+
 http://www.deeplearningbook.org/
 
 
