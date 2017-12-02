@@ -15,7 +15,7 @@ Explain here how to:
 - open Chrome and connect to Jupyter
 -->
 
-###
+###  
 ## Session I: What is Deep Learning? The case of handwritten digit recognition (MNIST)
 
 ### Neural Networks
@@ -41,7 +41,7 @@ https://transcranial.github.io/keras-js/#/mnist-cnn
 (Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/2_Convolutional_neural_networks-for-MNIST.ipynb
 
 
-###
+###  
 ## Session II: more advanced techniques - Style transfer
 
 ### Image recognition (CNN)
@@ -60,7 +60,7 @@ https://tenso.rs/demos/fast-neural-style/
 (Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/3_Artistic_style_transfer_with_a_repurposed_VGG_Net_16.ipynb
 
 
-###
+###  
 ## How to do it yourself at home
 
 Install Docker (PC or Mac)
