@@ -3,6 +3,11 @@ Hour of Code / Hausner Code Fest: Intro to AI &amp; DeepLearning
 
 Page easy url: http://bit.ly/code-fest
 
+<!--
+// http://52.45.136.140:8888
+// 172.30.1.57
+-->
+
 Explain here how to:
 - install Docker (link for Mac)
 - create local folder for Docker and make sure it is shared in preferences
@@ -52,6 +57,23 @@ https://tenso.rs/demos/fast-neural-style/
 ### Style transfer with Keras/Tensorflow and Python
 
 (Notebook)
+
+## How to do it yourself at home
+
+Install Docker (PC or Mac)
+TODO: Link
+
+docker pull ea167/jupyker-cpu
+
+Or better if you have a GPU:
+docker pull ea167/jupyker   (if you have a GPU)
+
+Then follow instructions here to launch:
+https://hub.docker.com/r/ea167/jupyker-cpu/~/dockerfile/
+
+Or with a Nvidia-GPU PC:
+https://hub.docker.com/r/ea167/jupyker/~/dockerfile/
+
 
 ## More Reading
 
