@@ -6,7 +6,6 @@ Page easy url: http://bit.ly/code-fest
 <!--
 // http://52.45.136.140:8888
 // 172.30.1.57
--->
 
 Explain here how to:
 - install Docker (link for Mac)
@@ -14,6 +13,7 @@ Explain here how to:
 - docker pull ea167/code-fest
 - launch docker image
 - open Chrome and connect to Jupyter
+-->
 
 
 ## Session I: What is Deep Learning? The case of handwritten digit recognition (MNIST)
