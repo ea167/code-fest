@@ -71,8 +71,10 @@ Then follow instructions here to launch:
 https://hub.docker.com/r/ea167/jupyker-cpu/~/dockerfile/
 
 Or better if you have a GPU:
+
 docker pull ea167/jupyker
-https://hub.docker.com/r/ea167/jupyker/~/dockerfile/
+
+and https://hub.docker.com/r/ea167/jupyker/~/dockerfile/
 
 
 ## More Reading
