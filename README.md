@@ -34,11 +34,11 @@ https://transcranial.github.io/keras-js/#/mnist-cnn
 
 ### Simple Neural Network with Keras and Python
 
-(Notebook)
+(Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/1_Simple-DNN-for-MNIST.ipynb
 
 ### Convolutional Neural Network with Keras and Python
 
-(Notebook)
+(Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/2_Convolutional_neural_networks-for-MNIST.ipynb
 
 
 ## Session II: more advanced techniques - Style transfer
@@ -56,8 +56,10 @@ https://tenso.rs/demos/fast-neural-style/
 
 ### Style transfer with Keras/Tensorflow and Python
 
-(Notebook)
+(Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/3_Artistic_style_transfer_with_a_repurposed_VGG_Net_16.ipynb
 
+
+##
 ## How to do it yourself at home
 
 Install Docker (PC or Mac)
@@ -65,13 +67,11 @@ TODO: Link
 
 docker pull ea167/jupyker-cpu
 
-Or better if you have a GPU:
-docker pull ea167/jupyker   (if you have a GPU)
-
 Then follow instructions here to launch:
 https://hub.docker.com/r/ea167/jupyker-cpu/~/dockerfile/
 
-Or with a Nvidia-GPU PC:
+Or better if you have a GPU:
+docker pull ea167/jupyker
 https://hub.docker.com/r/ea167/jupyker/~/dockerfile/
 
 
