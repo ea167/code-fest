@@ -31,14 +31,17 @@ Explain here how to:
 http://playground.tensorflow.org/
 
 
-### MNIST online Demos
+### MNIST online demos
 
-MNIST
-http://cs.stanford.edu/people/karpathy/convnetjs/
-
+Handwritten digit recognition demo:
 https://transcranial.github.io/keras-js/#/mnist-cnn
 
+See the learning and optimization in action:
+http://cs.stanford.edu/people/karpathy/convnetjs/
+
 ( and also http://www.denseinl2.com/webcnn/digitdemo.html )
+
+![Handwritten digits](https://harishnarayanan.org/images/writing/artistic-style-transfer/mnist-sample.png)
 
 ### Simple Neural Network with Keras and Python
 
@@ -48,15 +51,29 @@ https://transcranial.github.io/keras-js/#/mnist-cnn
 
 (Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/2_Convolutional_neural_networks-for-MNIST.ipynb
 
+![CNN](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/Images/ConvnetDiagram.png)
+
+![Convolution](https://harishnarayanan.org/images/writing/artistic-style-transfer/conv-layer.gif)
+
+![Convolutions](https://harishnarayanan.org/images/writing/artistic-style-transfer/mnist-web-demo.png)
 
 ###  
-## Session II: more advanced techniques - Style transfer
+# Part II: more advanced techniques - Style transfer
 
 ### Image recognition (CNN)
 
 Demo Inception v3: https://transcranial.github.io/keras-js/#/inception-v3
 
+If you feel doubtful, try these URLs as images :
+- https://static.boredpanda.com/blog/wp-content/uploads/2017/09/funny-dog-bios-92-59ad3f9cd01a7__700.jpg
+- https://static.boredpanda.com/blog/wp-content/uploads/2017/09/funny-dog-bios-70-59ad0f4a8264b__700.jpg
+- https://static.boredpanda.com/blog/wp-content/uploads/2014/06/cute-bunnies-tongues-13.jpg
+- https://images-eu.ssl-images-amazon.com/images/I/61qzr5q6l5L._SL1500_.jpg
+
+![Convnet classifier](https://harishnarayanan.org/images/writing/artistic-style-transfer/representation-learning.png)
+
 Other pre-trained Networks: ResNet, SqueezeNet, VGG
+
 
 ### Style transfer demo
 
@@ -66,6 +83,8 @@ https://tenso.rs/demos/fast-neural-style/
 ### Style transfer with Keras/Tensorflow and Python
 
 (Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/3_Artistic_style_transfer_with_a_repurposed_VGG_Net_16.ipynb
+
+![Style transfer](https://harishnarayanan.org/images/writing/artistic-style-transfer/style-transferred.jpg)
 
 
 ###  
@@ -90,7 +109,7 @@ and https://hub.docker.com/r/ea167/jupyker/~/dockerfile/
 
 http://keras.io
 
-https://harishnarayanan.org/writing/artistic-style-transfer/
+https://harishnarayanan.org/writing/artistic-style-transfer/  | Many images are borrowed from this great site.
 
 http://neuralnetworksanddeeplearning.com
 
