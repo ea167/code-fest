@@ -39,18 +39,18 @@ Explain here how to:
 > See the learning and optimization in action:
 > http://cs.stanford.edu/people/karpathy/convnetjs/
 
-    ( and also http://www.denseinl2.com/webcnn/digitdemo.html )
 
-    ![Handwritten digits](https://harishnarayanan.org/images/writing/artistic-style-transfer/mnist-sample.png)
+![Handwritten digits](https://harishnarayanan.org/images/writing/artistic-style-transfer/mnist-sample.png)
 
 
 ## Simple Neural Network with Keras and Python
 
-(Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/1_Simple-DNN-for-MNIST.ipynb
+> (Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/1_Simple-DNN-for-MNIST.ipynb
 
 ## Convolutional Neural Network with Keras and Python
 
-(Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/2_Convolutional_neural_networks-for-MNIST.ipynb
+> (Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/2_Convolutional_neural_networks-for-MNIST.ipynb
+
 
 ![CNN](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/Images/ConvnetDiagram.png)
 
@@ -63,59 +63,60 @@ Explain here how to:
 
 ## Image recognition (ConvNet | CNN)
 
-Demo Inception v3: https://transcranial.github.io/keras-js/#/inception-v3
+> Demo Inception v3: https://transcranial.github.io/keras-js/#/inception-v3
 
-If you feel doubtful, try these URLs as images :
-- https://static.boredpanda.com/blog/wp-content/uploads/2017/09/funny-dog-bios-92-59ad3f9cd01a7__700.jpg
-- https://static.boredpanda.com/blog/wp-content/uploads/2017/09/funny-dog-bios-70-59ad0f4a8264b__700.jpg
-- https://static.boredpanda.com/blog/wp-content/uploads/2014/06/cute-bunnies-tongues-13.jpg
-- https://images-eu.ssl-images-amazon.com/images/I/61qzr5q6l5L._SL1500_.jpg
+    If you feel doubtful, try these URLs as images :
+    - https://static.boredpanda.com/blog/wp-content/uploads/2017/09/funny-dog-bios-92-59ad3f9cd01a7__700.jpg
+    - https://static.boredpanda.com/blog/wp-content/uploads/2017/09/funny-dog-bios-70-59ad0f4a8264b__700.jpg
+    - https://static.boredpanda.com/blog/wp-content/uploads/2014/06/cute-bunnies-tongues-13.jpg
+    - https://images-eu.ssl-images-amazon.com/images/I/61qzr5q6l5L._SL1500_.jpg
 
 ![Convnet classifier](https://harishnarayanan.org/images/writing/artistic-style-transfer/representation-learning.png)
 
-Other pre-trained Networks: ResNet, SqueezeNet, VGG
+    Other pre-trained Networks: ResNet, SqueezeNet, VGG
 
 
-### Style transfer demo
+## Style transfer demo
 
-Style Transfer:
-https://tenso.rs/demos/fast-neural-style/
+> Style Transfer:
+> https://tenso.rs/demos/fast-neural-style/
 
-### Style transfer with Keras/Tensorflow and Python
+## Style transfer with Keras/Tensorflow and Python
 
-(Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/3_Artistic_style_transfer_with_a_repurposed_VGG_Net_16.ipynb
+> (Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/3_Artistic_style_transfer_with_a_repurposed_VGG_Net_16.ipynb
 
 ![Style transfer](https://harishnarayanan.org/images/writing/artistic-style-transfer/style-transferred.jpg)
 
 
 ###  
-## How to do it yourself at home
+# How to do it yourself at home
 
-Install Docker (PC or Mac)
-TODO: Link
+Install Docker (PC or Mac): https://www.docker.com/community-edition
 
-docker pull ea167/jupyker-cpu
+Launch Docker, and download my image for AI|DeepLearning:
+`docker pull ea167/jupyker-cpu`
 
 Then follow instructions here to launch:
 https://hub.docker.com/r/ea167/jupyker-cpu/~/dockerfile/
 
-Or better if you have a PC with Nvidia GPU:
+    Or better if you have a PC with Nvidia GPU:
 
-docker pull ea167/jupyker
+    docker pull ea167/jupyker
 
-and https://hub.docker.com/r/ea167/jupyker/~/dockerfile/
+    and https://hub.docker.com/r/ea167/jupyker/~/dockerfile/
 
 
-## More Reading
+# More Reading
 
-http://keras.io
+> http://keras.io
 
-https://harishnarayanan.org/writing/artistic-style-transfer/  | Many images are borrowed from this great site.
+> https://harishnarayanan.org/writing/artistic-style-transfer/  | Many images are borrowed from this great site.
 
-http://neuralnetworksanddeeplearning.com
+> http://neuralnetworksanddeeplearning.com
 
-http://www.deeplearningbook.org/
+> http://www.deeplearningbook.org/
 
 
 ## Glossary
-http://www.wildml.com/deep-learning-glossary/
+
+> http://www.wildml.com/deep-learning-glossary/
