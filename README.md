@@ -24,7 +24,7 @@ Explain here how to:
 
 ![Deep Neural Network](https://harishnarayanan.org/images/writing/artistic-style-transfer/neural-network-2-hidden.svg)
 
-##### Perceptron model, Feed-forward Neural Networks
+    Perceptron model, Feed-forward Neural Networks
 
 
 ### Tensorflow playground: play with layers, features, and neurons.
@@ -47,9 +47,15 @@ Explain here how to:
 
 > (Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/1_Simple-DNN-for-MNIST.ipynb
 
+2 basic layers
+
+
 ## Convolutional Neural Network with Keras and Python
 
 > (Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/2_Convolutional_neural_networks-for-MNIST.ipynb
+
+5 layers: 2 convolutional + 1 to group ("max pooling") + 2 layers
+
 
 
 ![CNN](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/Images/ConvnetDiagram.png)
@@ -61,7 +67,7 @@ Explain here how to:
 ###  
 # Part II: more advanced techniques - Style transfer
 
-## Image recognition (ConvNet | CNN)
+## Image recognition ("ConvNet" or "CNN")
 
 > Demo Inception v3: https://transcranial.github.io/keras-js/#/inception-v3
 
@@ -85,7 +91,7 @@ Explain here how to:
 
 > (Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/3_Artistic_style_transfer_with_a_repurposed_VGG_Net_16.ipynb
 
-![Style transfer](https://harishnarayanan.org/images/writing/artistic-style-transfer/style-transferred.jpg)
+![Style transfer](https://dmtyylqvwgyxw.cloudfront.net/instances/132/uploads/images/custom_image/image/1581/normal_Slide11.JPG?v=1508001718)
 
 
 ###  
