@@ -60,9 +60,11 @@ Explain here how to:
 
 ![CNN](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/Images/ConvnetDiagram.png)
 
+![Convolutions](https://harishnarayanan.org/images/writing/artistic-style-transfer/mnist-web-demo.png)
+
 ![Convolution](https://harishnarayanan.org/images/writing/artistic-style-transfer/conv-layer.gif)
 
-![Convolutions](https://harishnarayanan.org/images/writing/artistic-style-transfer/mnist-web-demo.png)
+
 
 ###  
 # Part II: more advanced techniques - Style transfer
