@@ -1,5 +1,5 @@
 # Introduction to AI and Deep Learning
-For the Hour of Code / Hausner Code Fest
+For the Hour of Code / Hausner Code Fest, 6th to 8th graders.
 
 Page easy url: http://bit.ly/code-fest
 
@@ -16,22 +16,24 @@ Explain here how to:
 -->
 
 ###  
-## Session I: What is Deep Learning? The case of handwritten digit recognition (MNIST)
+# Session I: What is Deep Learning? The case of handwritten digit recognition (MNIST)
 
 ### Neural Networks
-
-#### Perceptron model, Feedforward Neural Networks
 
 ![Perceptron](https://harishnarayanan.org/images/writing/artistic-style-transfer/neuron.gif)
 
 ![Deep Neural Network](https://harishnarayanan.org/images/writing/artistic-style-transfer/neural-network-2-hidden.svg)
 
-#### Tensorflow playground
+##### Perceptron model, Feed-forward Neural Networks
 
+
+### Tensorflow playground: play with layers, features, and neurons.
+
+<span style="color:red">
 http://playground.tensorflow.org/
+</span>
 
-
-### MNIST online demos
+## MNIST online demos
 
 Handwritten digit recognition demo:
 https://transcranial.github.io/keras-js/#/mnist-cnn
@@ -39,15 +41,16 @@ https://transcranial.github.io/keras-js/#/mnist-cnn
 See the learning and optimization in action:
 http://cs.stanford.edu/people/karpathy/convnetjs/
 
-( and also http://www.denseinl2.com/webcnn/digitdemo.html )
+    ( and also http://www.denseinl2.com/webcnn/digitdemo.html )
 
-![Handwritten digits](https://harishnarayanan.org/images/writing/artistic-style-transfer/mnist-sample.png)
+    ![Handwritten digits](https://harishnarayanan.org/images/writing/artistic-style-transfer/mnist-sample.png)
 
-### Simple Neural Network with Keras and Python
+
+## Simple Neural Network with Keras and Python
 
 (Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/1_Simple-DNN-for-MNIST.ipynb
 
-### Convolutional Neural Network with Keras and Python
+## Convolutional Neural Network with Keras and Python
 
 (Notebook) https://github.com/ea167/code-fest/blob/master/notebooks/2_Convolutional_neural_networks-for-MNIST.ipynb
 
@@ -60,7 +63,7 @@ http://cs.stanford.edu/people/karpathy/convnetjs/
 ###  
 # Part II: more advanced techniques - Style transfer
 
-### Image recognition (CNN)
+## Image recognition (ConvNet | CNN)
 
 Demo Inception v3: https://transcranial.github.io/keras-js/#/inception-v3
 
