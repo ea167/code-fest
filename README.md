@@ -20,8 +20,15 @@ Explain here how to:
 
 ### Neural Networks
 
-Tensorflow playground
+#### Perceptron model, Feedforward Neural Networks ()
+
+![Perceptron](https://harishnarayanan.org/images/writing/artistic-style-transfer/neuron.gif)
+
+
+#### Tensorflow playground
+
 http://playground.tensorflow.org/
+
 
 ### MNIST online Demos
 
