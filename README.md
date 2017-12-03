@@ -20,10 +20,11 @@ Explain here how to:
 
 ### Neural Networks
 
-#### Perceptron model, Feedforward Neural Networks ()
+#### Perceptron model, Feedforward Neural Networks
 
 ![Perceptron](https://harishnarayanan.org/images/writing/artistic-style-transfer/neuron.gif)
 
+![Deep Neural Network](https://harishnarayanan.org/images/writing/artistic-style-transfer/neural-network-2-hidden.svg)
 
 #### Tensorflow playground
 
