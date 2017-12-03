@@ -1,5 +1,5 @@
-# code-fest
-Hour of Code / Hausner Code Fest: Intro to AI &amp; DeepLearning
+# Introduction to AI and Deep Learning
+For the Hour of Code / Hausner Code Fest
 
 Page easy url: http://bit.ly/code-fest
 
