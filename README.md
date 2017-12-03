@@ -29,9 +29,9 @@ Explain here how to:
 
 ### Tensorflow playground: play with layers, features, and neurons.
 
-<span style="color:red">
+<a style="color:red" href="http://playground.tensorflow.org/" target="_blank">
 http://playground.tensorflow.org/
-</span>
+</a>
 
 ## MNIST online demos
 
