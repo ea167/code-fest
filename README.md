@@ -29,17 +29,15 @@ Explain here how to:
 
 ### Tensorflow playground: play with layers, features, and neurons.
 
-<a style="color:red" href="http://playground.tensorflow.org/" target="_blank">
-http://playground.tensorflow.org/
-</a>
+> http://playground.tensorflow.org/
 
 ## MNIST online demos
 
-Handwritten digit recognition demo:
-https://transcranial.github.io/keras-js/#/mnist-cnn
+> Handwritten digit recognition demo:
+> https://transcranial.github.io/keras-js/#/mnist-cnn
 
-See the learning and optimization in action:
-http://cs.stanford.edu/people/karpathy/convnetjs/
+> See the learning and optimization in action:
+> http://cs.stanford.edu/people/karpathy/convnetjs/
 
     ( and also http://www.denseinl2.com/webcnn/digitdemo.html )
 
